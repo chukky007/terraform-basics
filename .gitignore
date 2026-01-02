@@ -1,8 +1,8 @@
 # Local .terraform directories
-**/.terraform/*
+*/.terraform/*
 
 # Terraform provider binaries
-**/.terraform/providers/**
+*/.terraform/providers/*
 
 # .tfstate files
 *.tfstate
@@ -27,4 +27,4 @@ override.tf.json
 terraform.rc
 
 # Ignore lock files (optional - you might want to commit these)
-# .terraform.lock.hcl
+.terraform.lock.hcl
