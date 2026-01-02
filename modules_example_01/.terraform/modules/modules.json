@@ -1,1 +1,0 @@
-{"Modules":[{"Key":"","Source":"","Dir":"."},{"Key":"work_queue","Source":"./sqs-with-backoff","Dir":"sqs-with-backoff"}]}
